@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(172, 186, 196);
+}
+h1 {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(214, 218, 200);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px dotted rgb(214, 169, 157);
+}
+h3{
+    text-align: center;
+    background-color: rgb(214, 218, 200);
+}
+
+p {
+    text-align: center;
+    background-color: rgb(251, 243, 213);
+    font-family:Lucida Handwriting
+}
