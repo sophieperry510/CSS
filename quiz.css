@@ -1,0 +1,45 @@
+body {
+    background-color: gold;
+}
+
+.Eyeball {
+     height: 275px;
+    width: 250px;
+    background-color: ghostwhite;
+    margin: 25px;
+    display:inline-block;
+position: relative;
+}
+.Pupil {
+    background-color: black;
+    display:inline-block;
+    height: 90px;
+    width: 90px;
+    margin: 50px;
+
+}
+ .Mouth {
+height: 400px;
+width: 550px;
+margin: 25px;
+background-color: black;
+}
+
+.Teeth {
+    height: 50px;
+    width: 50px;
+    background-color: ghostwhite;
+    display: inline-block;
+    margin: 10px;
+    margin-top: 50px;
+}
+
+.Tounge {
+    height: 150px;
+    width: 100px;
+    background-color: brown;
+    display: inline-block;
+    margin-top: 135px;
+    margin-left: 20px;
+    text-align: center;
+}
