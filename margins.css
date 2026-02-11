@@ -1,0 +1,31 @@
+.firstDiv{
+   background-color:lavender; 
+   color:rgb(247, 199, 80);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.secondDiv{
+    background-color: lavender;
+    text-align: center;
+    font-size: 20px;
+    
+}
+.thirdDiv{
+    background-color:rgb(247, 199, 80) ; 
+    font-size: 15px;
+}
+.forthDiv{
+    text-decoration: underline;
+    padding: 10px;
+    margin: 20px;
+}
+.eventBox {
+  margin: 10px;
+  padding: 5px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#eventTitle {
+    color: #a1a8be;
+}
